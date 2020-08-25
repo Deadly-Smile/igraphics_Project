@@ -1,8 +1,9 @@
 ## igraphics_Project(Advanturer)
-#Created by :
-* Anik Saha (190115)
-* Shimul Hoassain (190114)
+# Created by :
 * Anamul Haque (190113)
+* Shimul Hoassain (190114)
+* Anik Saha (190115)
+
 Project:- Object Oriented Programming Sessional (CSE-1202)
 Course Teacher:- Md.Toukir Ahmed (Lecturer)
 Department:- Computer Science and Engineering
